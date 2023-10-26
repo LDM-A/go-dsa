@@ -1,0 +1,3 @@
+module github.com/LDM-A/go-dsa
+
+go 1.21.3
