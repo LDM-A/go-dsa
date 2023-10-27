@@ -7,8 +7,8 @@ Will be using this repository as a centralized location where I will store learn
 ## ToDo
 * Basic DSA
     * Search
-        * Linear Search
-        * Binary Search
+        * Linear Search [X]
+        * Binary Search [X]
         * Two crystal ball problem
     * Tree Search
         * Breadth First Search
@@ -18,7 +18,7 @@ Will be using this repository as a centralized location where I will store learn
     * Sort
         * Bubble Sort
         * Quick Sort
-        
+
     * Dijkstra Shortest path
     
     * Datastructure
